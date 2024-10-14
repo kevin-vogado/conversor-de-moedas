@@ -22,6 +22,8 @@ O Conversor de Moedas é uma aplicação feita com Java usando Orientação a Ob
 - `Funcionalidade 8.1` enibir entrada de valores maiores que 7 dígitos conforme políticas da API para o valor de conversão
 - `Funcionalidade 8.2` enibir entrada de vírgula junto ao valor fornecido, permitindo apenas entrada de ponto junto ao valor fornecido para o valor de conversão
 
+# Acessar o Projeto
+
 Para baixar o projeto em sua máquina, execute `git clone` com o link do repositório remoto `https://github.com/kevin-vogado/conversor-de-moedas.git`.
 
 # Técnicas e Tecnologias Utilizadas
