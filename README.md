@@ -3,7 +3,13 @@
 ![Badge em Produção](http://img.shields.io/static/v1?label=STATUS&message=ONLINE&color=GREEN&style=for-the-badge)
 
 # Descrição do Projeto 
-O Conversor de Moedas é uma aplicação feita com Java usando Orientação a Objetos e a biblioteca GSON para a desserialização do JSON da API. A principal função do Conversor de Moedas é consumir uma [API de taxa de câmbio](https://www.exchangerate-api.com/) para converter o valor de uma moeda de origem no valor de uma moeda de destino, considerando a taxa de câmbio.
+O Conversor de Moedas é uma aplicação feita com Java usando Orientação a Objetos e a biblioteca GSON para a desserialização do JSON da API. A principal função do Conversor de Moedas é consumir uma [API de taxa de câmbio](https://www.exchangerate-api.com/) para converter o valor de uma moeda de origem no valor de uma moeda de destino, considerando a taxa de câmbio em tempo real.
+
+Os inputs e outputs ocorrem por linha de comando, por esta finalidade, a execução do projeto pode acontecer por uma IDE ou linha de comando do sistema operacional do usuário.
+
+![imagem da homepage principal do Conversor de Moedas](https://github.com/user-attachments/assets/4b44bcc8-b339-461f-9211-78da3f4c4bf7)
+
+![imagem dos inputs e outputs do Conversor de Moedas](https://github.com/user-attachments/assets/e8718c9b-ffab-4412-96ac-3088f5e3d65e)
 
 # Funcionalidades do Projeto
 - `Funcionalidade 1` enviar moeda de origem para a API
