@@ -21,10 +21,10 @@ Os inputs e outputs ocorrem por linha de comando, por esta finalidade, a execuç
 - `Funcionalidade 4` fornecer entrada de número inteiro no terminal para o usuário inserir quais das 7 (sete) possíveis escolhas ele deseja executar no terminal
 - `Funcionalidade 5` fornecer entrada de número ponto flutuante para o usuário inserir um valor para a conversão
 - `Funcionalidade 6` fornecer resultado de saída para as escolhas feitas, sendo um resultado que mostre a moeda origem, o valor de conversão, a moeda destino e o valor convertido.
-- `Funcionalidade 7` enibir entrada de valores diferentes das 7 possíveis escolhas, incluindo a inibição de texto (String) e caracteres especiais
-- `Funcionalidade 8` enibir entrada de valores de texto (String) e caracteres especiais para o valor de conversão
-- `Funcionalidade 8.1` enibir entrada de valores maiores que 7 dígitos conforme políticas da API para o valor de conversão
-- `Funcionalidade 8.2` enibir entrada de vírgula junto ao valor fornecido, permitindo apenas entrada de ponto junto ao valor fornecido para o valor de conversão
+- `Funcionalidade 7` inibir entrada de valores diferentes das 7 possíveis escolhas, incluindo a inibição de texto (String) e caracteres especiais
+- `Funcionalidade 8` inibir entrada de valores de texto (String) e caracteres especiais para o valor de conversão
+- `Funcionalidade 8.1` inibir entrada de valores maiores que 7 dígitos conforme políticas da API para o valor de conversão
+- `Funcionalidade 8.2` inibir entrada de vírgula junto ao valor fornecido, permitindo apenas entrada de ponto junto ao valor fornecido para o valor de conversão
 
 # Acessar o Projeto
 
